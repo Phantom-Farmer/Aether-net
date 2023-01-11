@@ -2,7 +2,7 @@
   "name": "aether-net-2",
   "private": true,
   "version": "1.0.0",
-  "author": "joel mcanulty",
+  "author": "Joel Mcanulty",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
